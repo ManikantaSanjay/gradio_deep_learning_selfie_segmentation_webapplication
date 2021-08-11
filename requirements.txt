@@ -1,0 +1,4 @@
+gradio
+mediapipe
+opencv-python
+matplotlib
