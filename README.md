@@ -12,7 +12,7 @@ iv> Opencv-Python
 
 v> Numpy
 
-
+The requirements.txt file below 👇 contains the libraries required to be installed. https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/requirements.txt 🔗
 ## Contents:
 1️⃣ Import Required Libraries
 
