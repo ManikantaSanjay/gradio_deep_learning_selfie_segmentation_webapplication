@@ -24,3 +24,4 @@ The requirements.txt file below 👇 contains the libraries required to be insta
 
 5️⃣ Building the Gradio Web App
 
+## Add a star 🌟 to the repo if u like it.😃 Thank You ✌️
