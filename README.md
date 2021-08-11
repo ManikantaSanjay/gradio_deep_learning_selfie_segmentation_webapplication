@@ -1,6 +1,8 @@
 # gradio_deep_learning_selfie_segmentation_webapplication
 ## Description:
 A Simple Web Application built using Gradio capable of Selfie Image Segmentation.
+
+Link to Notebook File : 👇 https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/app.ipynb 🔗
 ## Libraries Used:
 i> Gradio
 
