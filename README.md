@@ -26,4 +26,6 @@ The requirements.txt file below 👇 contains the libraries required to be insta
 
 5️⃣ Building the Gradio Web App
 
+## Results:
+![alt-text](https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/Results/result.png?raw=true)
 ## Add a star 🌟 to the repo if u like it.😃 Thank You ✌️
