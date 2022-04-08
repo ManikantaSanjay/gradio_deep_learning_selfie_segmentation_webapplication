@@ -18,7 +18,7 @@ The requirements.txt file below 👇 contains the libraries required to be insta
 ## Contents:
 1️⃣ Import Required Libraries
 
-2️⃣ Capturing WebCam Feed using OpencCV
+2️⃣ Capturing WebCam Feed using OpenCV
 
 3️⃣ Applying Selfie Segmentation
 
