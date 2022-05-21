@@ -1,22 +1,20 @@
 # gradio_deep_learning_selfie_segmentation_webapplication
-## Description:
-A Simple Web Application built using Gradio capable of Selfie Image Segmentation.
+## Description
+This is a Simple Web Application capable of performing Selfie Image Segmentation built using Gradio.
 
-Link to Notebook File : 👇 https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/app.ipynb 🔗
-## Libraries Used:
-i> Gradio
+### Link to Notebook File 👇 
+#### https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/app.ipynb 🔗
+## 💻 Built With
+* Gradio
+* Matplotlib
+* Mediapipe
+* OpenCV
+* Numpy
 
-ii> Matplotlib
-
-iii> Mediapipe
-
-iv> Opencv-Python
-
-v> Numpy
-
-The requirements.txt file below 👇 contains the libraries required to be installed. https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/requirements.txt 🔗
-## Contents:
-1️⃣ Import Required Libraries
+The requirements.txt file below  contains the libraries required to be installed.
+#### https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/requirements.txt 🔗
+## 🧐 Features
+1️⃣ Import Required Python Libraries
 
 2️⃣ Capturing WebCam Feed using OpenCV
 
@@ -26,6 +24,8 @@ The requirements.txt file below 👇 contains the libraries required to be insta
 
 5️⃣ Building the Gradio Web App
 
-## Results:
+## 🚀 Demonstration
 ![alt-text](https://github.com/ManikantaSanjay/gradio_deep_learning_selfie_segmentation_webapplication/blob/main/Results/result.png?raw=true)
-## Add a star 🌟 to the repo if u like it.😃 Thank You ✌️
+
+## 🙇 Project Credits
+### Nicholas Renotte [YouTube](https://www.youtube.com/c/NicholasRenotte)
